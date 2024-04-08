@@ -1,0 +1,8 @@
+settings:
+  email_tasks:
+    - example_settings_1
+
+example_settings_1:
+  recipient_list: example_list.csv
+  email_subject: example_email_subject
+  email_html: example_email.html
